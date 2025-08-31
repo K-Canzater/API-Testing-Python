@@ -3,7 +3,7 @@
 ## Overview
 This repository demonstrates practical **API testing using Python**, covering all CRUD operations (GET, POST, PUT, DELETE).  
 The scripts are designed to showcase sending, receiving, and validating API requests using the `requests` library and formatted JSON outputs.  
-Perfect for QA practice, portfolio demonstration, and highlighting automation-ready skills.
+
 
 ## Technologies Used
 - Python 3
