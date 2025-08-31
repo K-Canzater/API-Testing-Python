@@ -21,7 +21,7 @@ Perfect for QA practice, portfolio demonstration, and highlighting automation-re
 ## How to Run
 1. Clone the repository:  
     ```bash
-    git clone https://github.com/YourUsername/API-Testing-Python.git
+    git clone https://github.com/K-Canzater/API-Testing-Python.git
     ```
 2. Navigate to the folder:  
     ```bash
